@@ -1,5 +1,12 @@
 # Peer Assessments
 
+## Files
+ - README.md: the current file
+ - run_analysis.R: the program to perform the analysis and generate the tidy data set
+ - tidyData.txt: the generated tidy data set in CSV format
+ - CodeBook.md: the tidyData.txt variables documentation
+ - getdata-projectfiles-UCI HAR Dataset.zip: initial raw data.
+ 
 ## Presentation
 In this program, we use the 'sqldf' and 'data.table' libraries.
 The code starts by cleaning the allocated objects in the user workspace.
